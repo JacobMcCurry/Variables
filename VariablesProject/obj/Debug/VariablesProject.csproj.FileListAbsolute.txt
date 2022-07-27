@@ -1,0 +1,8 @@
+C:\Users\bedfa\source\repos\Variables\VariablesProject\bin\Debug\VariablesProject.exe.config
+C:\Users\bedfa\source\repos\Variables\VariablesProject\bin\Debug\VariablesProject.exe
+C:\Users\bedfa\source\repos\Variables\VariablesProject\bin\Debug\VariablesProject.pdb
+C:\Users\bedfa\source\repos\Variables\VariablesProject\obj\Debug\VariablesProject.csproj.AssemblyReference.cache
+C:\Users\bedfa\source\repos\Variables\VariablesProject\obj\Debug\VariablesProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\bedfa\source\repos\Variables\VariablesProject\obj\Debug\VariablesProject.csproj.CoreCompileInputs.cache
+C:\Users\bedfa\source\repos\Variables\VariablesProject\obj\Debug\VariablesProject.exe
+C:\Users\bedfa\source\repos\Variables\VariablesProject\obj\Debug\VariablesProject.pdb
